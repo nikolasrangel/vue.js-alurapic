@@ -1,6 +1,10 @@
 # alurapic
 
-> A Vue.js project
+> Projeto Alurapic dos cursos de Vue.js da plataforma de ensino Alura.
+
+## ☁️ live example ☁️
+
+> [https://vuejs-alurapic.herokuapp.com](https://vuejs-alurapic.herokuapp.com)
 
 ## Build Setup
 
@@ -14,5 +18,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
